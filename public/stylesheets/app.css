@@ -1,0 +1,32 @@
+header{
+    background-color:darkslategray;
+    color: lavender;
+    font-weight: bolder;
+    margin: 10PX 0PX;
+    padding : 20PX;
+
+}
+body{
+    background-color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main{
+    background-color: white;
+    padding: 16PX;
+}
+.finstagram-post {
+    margin-bottom: 48PX;
+}
+
+.finstagram-post .user-info img {
+    boarder-radius: 50%;
+}
+
+a.photo{
+    transition: padding 0.5s;
+}
+
+a.photo:hover{
+    padding: 10PX; 
+}
