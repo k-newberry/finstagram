@@ -1,0 +1,50 @@
+=> [[32m#<User:0x0000562da362eb08[0m
+  id: [1;34m1[0m,
+  username: [31m[1;31m"[0m[31mMoon_Moon[1;31m"[0m[31m[0m,
+  avatar_url: [31m[1;31m"[0m[31mhttps://i.pinimg.com/originals/75/d2/47/75d24724e13f083bce2c77541606f15b.png[1;31m"[0m[31m[0m,
+  email: [1;36mnil[0m,
+  password: [1;36mnil[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m05[0m:[1;34m14[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m05[0m:[1;34m14[0m [1;34;4mUTC[0m[32m>[0m,
+ [32m#<User:0x0000562da362c830[0m
+  id: [1;34m2[0m,
+  username: [31m[1;31m"[0m[31mwolf_pack_1[1;31m"[0m[31m[0m,
+  avatar_url: [31m[1;31m"[0m[31mhttps://cdn.hswstatic.com/gif/pack-mentality-1.jpg[1;31m"[0m[31m[0m,
+  email: [1;36mnil[0m,
+  password: [1;36mnil[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m11[0m:[1;34m19[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m11[0m:[1;34m19[0m [1;34;4mUTC[0m[32m>[0m,
+ [32m#<User:0x0000562da362c5d8[0m
+  id: [1;34m3[0m,
+  username: [31m[1;31m"[0m[31mMajesticAF_wolf[1;31m"[0m[31m[0m,
+  avatar_url:
+   [31m[1;31m"[0m[31mhttps://external-preview.redd.it/JlvjfDbBt8I5rrR-RscthLmkINwfi4NcZJVrb6g2ywI.jpg?auto=webp&s=571bb793cf63fd8698f758c2bd8f623b83d7e1e6[1;31m"[0m[31m[0m,
+  email: [1;36mnil[0m,
+  password: [1;36mnil[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m19[0m:[1;34m08[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m16[0m [1;34m02[0m:[1;34m19[0m:[1;34m08[0m [1;34;4mUTC[0m[32m>[0m,
+ [32m#<User:0x0000562da362c3f8[0m
+  id: [1;34m4[0m,
+  username: [31m[1;31m"[0m[31mhappy_puppy[1;31m"[0m[31m[0m,
+  avatar_url:
+   [31m[1;31m"[0m[31mhttps://i.barkpost.com/wp-content/uploads/2014/06/nikai2.jpg?q=70&fit=crop&crop=entropy&w=808&h=500[1;31m"[0m[31m[0m,
+  email: [1;36mnil[0m,
+  password: [31m[1;31m"[0m[31mpassword[1;31m"[0m[31m[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m23[0m [1;34m01[0m:[1;34m43[0m:[1;34m37[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m23[0m [1;34m01[0m:[1;34m43[0m:[1;34m37[0m [1;34;4mUTC[0m[32m>[0m,
+ [32m#<User:0x0000562da362c2b8[0m
+  id: [1;34m5[0m,
+  username: [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  avatar_url: [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  email: [1;36mnil[0m,
+  password: [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m23[0m [1;34m01[0m:[1;34m48[0m:[1;34m36[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m23[0m [1;34m01[0m:[1;34m48[0m:[1;34m36[0m [1;34;4mUTC[0m[32m>[0m,
+ [32m#<User:0x0000562da362c150[0m
+  id: [1;34m6[0m,
+  username: [31m[1;31m"[0m[31mwolf4life[1;31m"[0m[31m[0m,
+  avatar_url: [31m[1;31m"[0m[31mhttps://i.imgflip.com/1q35f4.jpg[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mwolf4life@gmail.com[1;31m"[0m[31m[0m,
+  password: [31m[1;31m"[0m[31mpassword[1;31m"[0m[31m[0m,
+  created_at: [1;34m2020[0m-[1;34m10[0m-[1;34m28[0m [1;34m02[0m:[1;34m37[0m:[1;34m10[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2020[0m-[1;34m10[0m-[1;34m28[0m [1;34m02[0m:[1;34m37[0m:[1;34m10[0m [1;34;4mUTC[0m[32m>[0m]
